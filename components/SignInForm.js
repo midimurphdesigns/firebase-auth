@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { View, Text } from "react-native";
+import { View } from "react-native";
 import { FormLabel, FormInput, Button } from "react-native-elements";
 import axios from "axios";
 import firebase from "firebase";
